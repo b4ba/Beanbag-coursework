@@ -1,2 +1,7 @@
 # exeter_uni
-projects while in University of Exeter
+My projects from Term 2 @ University of Exeter
+
+Topics include:
+Object-Oriented Programming
+Web-Development
+Computational Mathematics (Jupyter Notebook)
